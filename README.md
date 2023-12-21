@@ -48,10 +48,11 @@ print(solution)
 
 ## Output:
 ### 1.
-![lu decomposition](/LU1.png)
+![LU1](https://github.com/Arun2005-create/LU-Decomposition/assets/138849356/044cdfde-d1cd-412a-aae3-bae8fa654875)
 
 ### 2.
-![lu decomposition](/LU2.png)
+![LU2](https://github.com/Arun2005-create/LU-Decomposition/assets/138849356/f107024e-c0c5-426e-9e31-f4c2338fef36)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
